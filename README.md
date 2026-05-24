@@ -210,8 +210,8 @@ customer-acquisition-funnel-analytics/
 
 ```sql
 -- Create database and import data
-CREATE DATABASE customer_analytics;
-USE customer_analytics;
+CREATE DATABASE customer_retention_project;
+USE customer_retention_project;
 -- Import customers.csv, orders.csv, marketing_spend.csv
 -- Then run SQL files in sequence
 ```
@@ -228,7 +228,7 @@ The dataset contains 50,000+ real-scale records designed to simulate actual busi
 
 ## Connect
 
-**LinkedIn:** [[Your LinkedIn Profile](https://www.linkedin.com/in/amresh-patra-952714262/)]  
+**LinkedIn:** [](https://www.linkedin.com/in/amresh-patra-952714262/)]  
 **Email:** [amresh_patra@proton.me]  
 **Portfolio:** [Your Portfolio Link]
 
