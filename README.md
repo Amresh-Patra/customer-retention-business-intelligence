@@ -57,25 +57,23 @@ This project was built to simulate real business analytics work done by a data a
 
 The project is divided into 4 parts, each covering a different layer of business analytics:
 
-```
-ðŸ“ customer-acquisition-funnel-analytics/
-â”‚
-â”œâ”€â”€ ðŸ“„ README.md
-â”‚
-â”œâ”€â”€ ðŸ“ data/
-â”‚   â”œâ”€â”€ customers.csv
-â”‚   â”œâ”€â”€ orders.csv
-â”‚   â””â”€â”€ marketing_spend.csv
-â”‚
-â”œâ”€â”€ ðŸ“ sql/
-â”‚   â”œâ”€â”€ part1_marketing_funnel_analytics.sql
-â”‚   â”œâ”€â”€ part2_advanced_customer_analytics.sql
-â”‚   â”œâ”€â”€ part3_business_dashboard_reporting.sql
-â”‚   â””â”€â”€ part4_business_intelligence_analytics.sql
-â”‚
-â””â”€â”€ ðŸ“ results/
-    â””â”€â”€ (query output screenshots)
-```
+customer-acquisition-funnel-analytics/
+|
+|-- README.md
+|
+|-- data/
+|   |-- customers.csv
+|   |-- orders.csv
+|   |-- marketing_spend.csv
+|
+|-- sql/
+|   |-- part1_marketing_funnel_analytics.sql
+|   |-- part2_advanced_customer_analytics.sql
+|   |-- part3_business_dashboard_reporting.sql
+|   |-- part4_business_intelligence_analytics.sql
+|
+|-- results/
+    |-- (query output screenshots)
 
 ---
 
